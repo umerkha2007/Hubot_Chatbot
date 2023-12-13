@@ -1,0 +1,30 @@
+{
+  "name": "bender_2.0",
+  "version": "0.0.0",
+  "private": true,
+  "author": "yes",
+  "description": "MediaValet Inc",
+  "dependencies": {
+    "@octokit/rest": "^19.0.4",
+    "coffee-script": "^1.12.7",
+    "graceful-fs": "^4.2.10",
+    "hubot": "^3.3.2",
+    "hubot-azure-brain": "^1.0.0",
+    "hubot-diagnostics": "^1.0.0",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^1.0.1",
+    "hubot-jira-comment": "^0.1.2",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-rules": "^1.0.0",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.10.0",
+    "promise": "^8.2.0"
+  },
+  "engines": {
+    "node": "~12",
+    "npm": "~6"
+  }
+}
